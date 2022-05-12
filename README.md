@@ -9,7 +9,7 @@ Full-Stack Developer
 * 🧠  I'm learning MERN
 * 🤝  I'm open to collaborating on Responsive web applications (Frontend/Backend)
 * ⚡  I'm not perfect nor worst.
-* 🐰  My friends address me as Bunny
+* 🐰   My friends address me as Bunny
 
 <a href="https://www.github.com/codewithbunny" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/codewithbunny?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
