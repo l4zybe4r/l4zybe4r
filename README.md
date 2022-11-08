@@ -1,7 +1,8 @@
-Hi 👋 I'm Bashir Jaliyawala
+Hi 👋 I'm **Bashir Jaliyawala**
 ==================================
 
-<h2 align="center">A passionate **Frontend Developer** from India</h3>
+<h2 align="center">A passionate <b>Frontend Developer</b> from India</h3>
+</hr>
 
 
 * 🌍  I'm based in 127.0.0.1
