@@ -1,8 +1,8 @@
 Hi 👋 I'm Bashir Jaliyawala
 ==================================
 
-<h3 align="center">A passionate Frontend Developer from India</h3>
---------------------
+<h2 align="center">A passionate **Frontend Developer** from India</h3>
+
 
 * 🌍  I'm based in 127.0.0.1
 * 💬  Ask me about **JavaScript, jQuery, Python and MySQL**
