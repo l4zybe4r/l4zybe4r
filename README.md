@@ -1,7 +1,7 @@
 Hi 👋 I'm **Bashir Jaliyawala**
 ==================================
 
-<h2 align="center">A passionate <b>Frontend Developer</b> from India</h3>
+<h1 align="center">A passionate <b>Frontend Developer</b> from India</h1>
 </hr>
 
 
