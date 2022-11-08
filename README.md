@@ -29,11 +29,13 @@ src="https://img.shields.io/github/followers/codewithbunny?logo=github&style=for
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithbunny&show_icons=true&locale=en&layout=compact" alt="codewithbunny" /></p>
-</hr>
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithbunny&show_icons=true&locale=en" alt="codewithbunny" /></p>
-</hr>
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithbunny&" alt="codewithbunny" /></p>
-</hr>
+
 
 ### Support Me
 
