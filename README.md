@@ -11,7 +11,7 @@ Hi 👋 I'm **Bashir Jaliyawala**
 * 🌱  I’m currently learning **MERN Stack**
 * 📄  Know about my experiences [**My-Portfolio**](https://codewithbunny.000webhostapp.com/)
 * 👨‍💻  All of my projects are available at [**GitHub**](https://github.com/codewithbunny?tab=repositories)
-* ✉️  You can contact me at [bashirjaliyawala@gmail.com](mailto:bashirjaliyawala@gmail.com)
+* ✉️  You can contact me at [**bashirjaliyawala@gmail.com**](mailto:bashirjaliyawala@gmail.com)
 * 🤝  I'm open to collaborating on Responsive web applications (**Frontend/Backend**)
 * ⚡  Fun fact **Access Denied!**
 * 🐰  My friends address me as <b>Bunny</b>
