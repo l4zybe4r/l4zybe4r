@@ -6,13 +6,13 @@ Hi 👋 I'm **Bashir Jaliyawala**
 
 
 * 🌍  I'm based in 127.0.0.1
-* 💬  Ask me about **JavaScript, jQuery, Python and MySQL**
-* 🔭  I’m currently working on **E-Commerce Website**
-* 🌱  I’m currently learning **MERN Stack**
+* 💬  Ask me about **Data Analysis, Machine Learning, Deep Learning, Tensorflow, Python, JavaScript, MySQL & Web Development**
+* 🔭  I’m currently working on **ML/DL Projects & E-Commerce Website**
+* 🌱  I’m currently learning **Full-Stack Data Science**
 * 📄  Know about my experiences [**My-Portfolio**](https://codewithbunny.000webhostapp.com/)
 * 👨‍💻  All of my projects are available at [**GitHub**](https://github.com/codewithbunny?tab=repositories)
 * ✉️  You can contact me at [**bashirjaliyawala@gmail.com**](mailto:bashirjaliyawala@gmail.com)
-* 🤝  I'm open to collaborating on Responsive web applications (**Frontend/Backend**)
+* 🤝  I'm open to collaborating on Artificial Intelligence & Responsive web applications.
 * ⚡  Fun fact **Access Denied!**
 * 🐰  My friends address me as <b>Bunny</b>
 
