@@ -8,7 +8,7 @@ Hi 👋 I'm **Bashir Jaliyawala**
 * 🌍  I'm based in 127.0.0.1
 * 💬  Ask me about **Data Analysis, Machine Learning, Deep Learning, Tensorflow, Python, JavaScript, MySQL & Web Development**
 * 🔭  I’m currently working on **ML/DL Projects & E-Commerce Website**
-* 🌱  I’m currently learning **Full-Stack Data Science**
+* 🌱  I’m currently learning **Full-Stack Developer**
 * 📄  Know about my experiences [**My-Portfolio**](https://codewithbunny.000webhostapp.com/)
 * 👨‍💻  All of my projects are available at [**GitHub**](https://github.com/codewithbunny?tab=repositories)
 * ✉️  You can contact me at [**bashirjaliyawala@gmail.com**](mailto:bashirjaliyawala@gmail.com)
