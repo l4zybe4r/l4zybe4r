@@ -6,15 +6,13 @@ Hi 👋 I'm **Bashir Jaliyawala**
 
 
 * 🌍  I'm based in 127.0.0.1
-* 💬  Ask me about **Data Analysis, Machine Learning, Deep Learning, Tensorflow, Python, JavaScript, MySQL & Web Development**
-* 🔭  I’m currently working on **ML/DL Projects & E-Commerce Website**
-* 🌱  I’m currently learning **Full-Stack Developer**
-* 📄  Know about my experiences [**My-Portfolio**](https://codewithbunny.000webhostapp.com/)
-* 👨‍💻  All of my projects are available at [**GitHub**](https://github.com/codewithbunny?tab=repositories)
+* 💬  Ask me about **JavaScript, React-Native, No-Sql/MySql, Mobile & Web Application Development**
+* 🔭  Currently building native mobile applications for **product-driven and fintech-focused platforms**.
+* 👨‍💻  All of my projects are available at [**GitHub**](https://github.com/l4zybe4r?tab=repositories)
 * ✉️  You can contact me at [**bashirjaliyawala@gmail.com**](mailto:bashirjaliyawala@gmail.com)
-* 🤝  I'm open to collaborating on Artificial Intelligence & Responsive web applications.
+* 🤝  I'm open to collaborating on Responsive Native Mobile and Web applications, Morover AI/ML integration too.
 * ⚡  Fun fact **Access Denied!**
-* 🐰  My friends address me as <b>Bunny</b>
+* 🐰  My friends address me as <b>Lazy Bear</b>
 
 <a href="https://www.github.com/codewithbunny" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/codewithbunny?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
