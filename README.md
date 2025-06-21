@@ -7,7 +7,7 @@ Hi 👋 I'm **Bashir Jaliyawala**
 
 * 🌍  I'm based in 127.0.0.1
 * 💬  Ask me about **JavaScript, React-Native, No-Sql/MySql, Mobile & Web Application Development**
-* 🔭  I’m currently working on **Fintech Native Mobile Application**
+* 🔭  Currently building native mobile applications for **product-driven and fintech-focused platforms**.
 * 👨‍💻  All of my projects are available at [**GitHub**](https://github.com/l4zybe4r?tab=repositories)
 * ✉️  You can contact me at [**bashirjaliyawala@gmail.com**](mailto:bashirjaliyawala@gmail.com)
 * 🤝  I'm open to collaborating on Responsive Native Mobile and Web applications, Morover AI/ML integration too.
